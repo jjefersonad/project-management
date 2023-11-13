@@ -1,0 +1,1 @@
+ALTER TABLE membros ADD COLUMN cargo varchar(100) null;
